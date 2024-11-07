@@ -1,9 +1,9 @@
 # Avnish Kanungo  
 West Lafayette, IN 47906, USA  
-[Email: avnishkanungo@gmail.com](mailto:avnishkanungo@gmail.com)  
-[LinkedIn: linkedin.com/in/avnish-kanungo-490086b3](https://linkedin.com/in/avnish-kanungo-490086b3)  
+Email: [avnishkanungo@gmail.com](mailto:avnishkanungo@gmail.com)  
+LinkedIn: [linkedin.com/in/avnish-kanungo-490086b3](https://linkedin.com/in/avnish-kanungo-490086b3)  
 Phone: +1(773)696-8488  
-[GitHub: https://github.com/avnishkanungo](https://github.com/avnishkanungo)
+GitHub: [https://github.com/avnishkanungo](https://github.com/avnishkanungo)
 
 ---
 
@@ -13,7 +13,7 @@ Phone: +1(773)696-8488
 *Master of Science (MS) in Computer and Information Technology*  
 **CGPA:** 3.93/4  
 *August 2023 - April 2025*  
-- **Thesis (Ongoing):** Human Feedback-based LLM-informed Task and Path Planning in Multi-Robot Environments.
+**Thesis (Ongoing):** Human Feedback-based LLM-informed Task and Path Planning in Multi-Robot Environments.
 
 **NMIMS University, Mumbai, India**  
 *Integrated Bachelor of Technology (B.Tech) in Computer Engineering and MBA in Technology Management*  

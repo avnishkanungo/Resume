@@ -1,2 +1,2 @@
-# resume
+# Resume
 Hosting my resume online.

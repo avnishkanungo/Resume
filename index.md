@@ -1,8 +1,8 @@
 # Avnish Kanungo  
 West Lafayette, IN 47906, USA  
-Email: [avnishkanungo@gmail.com](mailto:avnishkanungo@gmail.com)  
+Email: [kanungoavnish@gmail.com](mailto:avnishkanungo@gmail.com)  
 LinkedIn: [linkedin.com/in/avnish-kanungo-490086b3](https://linkedin.com/in/avnish-kanungo-490086b3)  
-Phone: +1(773)696-8488  
+Phone: +91 8879902518 / +1(773)696-8488  
 GitHub: [https://github.com/avnishkanungo](https://github.com/avnishkanungo)
 
 ---
